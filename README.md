@@ -1,7 +1,7 @@
 # CHECK TO-DO-LIST
 <h1>An interactive to do list.</h1>
 
-🚀 <strong> Tech Stack: </strong>
+🚀 <strong>Tech Stack: </strong>
 <ul>
 <li> HTML for structure</li>
 <li> CSS for the snazzy look</li>
